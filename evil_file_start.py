@@ -1,4 +1,4 @@
-fp = open("e:\\words.txt","r")
+fp = open("words.txt","r")
 done = False
 words = []
 while (not done):

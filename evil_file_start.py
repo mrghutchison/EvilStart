@@ -11,3 +11,5 @@ while (not done):
 
 print (len(words))
 words.sort()
+
+print (words[0])
